@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Advance Design Patterns, System Design**
 
-- 👯 I’m looking to collaborate on **Selenium, Automation Frameworks,Azure DevOps**
+- 👯 I’m looking to collaborate on **Selenium, Automation Frameworks, Azure DevOps**
 
-- 💬 Ask me about **Selenium, SDET, JAVA, Azure DevOps,TestNG**
+- 💬 Ask me about **Selenium, SDET, JAVA, Azure DevOps, TestNG**
 
 - 📫 How to reach me **vaibhavc121@gmail.com**
 
