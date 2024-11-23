@@ -26,10 +26,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/vaibhavc121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhavc121" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavc121&show_icons=true&locale=en&layout=compact" alt="vaibhavc121" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavc121&show_icons=true&locale=en" alt="vaibhavc121" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavc121" alt="vaibhavc121" /></a> </p>
