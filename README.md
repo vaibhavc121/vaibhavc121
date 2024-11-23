@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavc121&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavc121" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavc121" alt="vaibhavc121" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vaibhav47789272" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav47789272?logo=twitter&style=for-the-badge" alt="vaibhav47789272" /></a> </p>
 
 - 🔭 I’m currently working on **Advance Design Patterns, System Design**
@@ -29,5 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavc121&show_icons=true&locale=en&layout=compact" alt="vaibhavc121" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavc121&show_icons=true&locale=en" alt="vaibhavc121" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavc121" alt="vaibhavc121" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavc121&" alt="vaibhavc121" /></p>
