@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavc121&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavc121" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaibhav47789272" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav47789272?logo=twitter&style=for-the-badge" alt="vaibhav47789272" /></a> </p>
-
-- 🔭 I’m currently working on **Advance Design Patterns, System Design**
+- 🔭 I’m currently working on **Advance Design Patterns, SOLID Principles, System Design**
 
 - 👯 I’m looking to collaborate on **Selenium, Automation Frameworks, Azure DevOps**
 
@@ -20,13 +18,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavc121&" alt="vaibhavc121" /></p>
 
+<p align="left"> <a href="https://twitter.com/vaibhav47789272" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav47789272?logo=twitter&style=for-the-badge" alt="vaibhav47789272" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav47789272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav47789272" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/vaibhavc121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhavc121" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavc121&show_icons=true&locale=en" alt="vaibhavc121" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavc121" alt="vaibhavc121" /></a> </p>
 
